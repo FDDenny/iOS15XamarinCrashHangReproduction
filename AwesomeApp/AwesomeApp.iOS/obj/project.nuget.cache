@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hg/kYfVwlVfipXRNPxanKmYe7yCx3cAASyJkFXl215eBqekeYJPETY/UopJYmQdDZgNbgumlCi2DWkYNhD6Wpg==",
+  "success": true,
+  "projectFilePath": "/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/bdenny/.nuget/packages/xamarin.forms/5.0.0.1874/xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

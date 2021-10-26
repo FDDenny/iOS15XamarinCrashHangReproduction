@@ -1,0 +1,12 @@
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb

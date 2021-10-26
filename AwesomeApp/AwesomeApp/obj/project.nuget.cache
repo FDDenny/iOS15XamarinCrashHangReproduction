@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/v36YNo+tbywjGN2KiHEUT+si145k+U52dRbk4lY3mTtpqgzuNtvCdldDe522P3/A5jXw8PuJr7WLhQ3QreBw==",
+  "success": true,
+  "projectFilePath": "/Users/bdenny/Repos/xamarin-forms-samples/GetStarted/FirstApp/AwesomeApp/AwesomeApp/AwesomeApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/bdenny/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/bdenny/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/bdenny/.nuget/packages/xamarin.forms/5.0.0.1874/xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
